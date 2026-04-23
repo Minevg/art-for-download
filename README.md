@@ -1,36 +1,35 @@
-# Artes para Download
+# Art for Download
 
-Este repositório reúne artes digitais para quem quiser baixar e imprimir.
+This repository brings together digital artwork for anyone who wants to download and print it.
 
-## Como baixar uma arte
+## How to Download an Artwork
 
-1. Abra a pasta `imagens`.
-2. Clique no arquivo desejado.
-3. Clique em `Download raw file` ou `Baixar`.
-4. Salve o arquivo no seu computador ou celular.
-5. Imprima em casa ou envie para uma gráfica.
+1. Open the `images` folder.
+2. Click the file you want.
+3. Click `Download raw file` or `Download`.
+4. Save the file to your computer or phone.
+5. Print it at home or send it to a print shop.
 
-## Arquivos disponíveis
+## Available Files
 
-As artes estão organizadas na pasta `imagens`.
+The artwork files are organized inside the `images` folder.
 
-Formatos recomendados:
+Recommended formats:
 
-- `PNG` para imagens em boa qualidade
-- `JPG` para imagens leves
-- `PDF` para impressão em gráfica
+- `PNG` for high-quality images
+- `JPG` for lightweight images
+- `PDF` for professional printing
 
-## Sugestão de impressão
+## Printing Suggestion
 
-Para melhores resultados, imprima em papel de boa qualidade. Para quadros, cartazes ou lembranças, uma gráfica pode ajustar o tamanho e o acabamento.
+For better results, print on high-quality paper. For frames, posters, or keepsakes, a print shop can adjust the size and finish.
 
-## Uso permitido
+## Allowed Use
 
-As artes podem ser baixadas e impressas para uso pessoal.
+These files may be downloaded and printed for personal use.
 
-Para revenda, uso comercial, alteração das artes ou inclusão em produtos pagos, entre em contato com a autora antes de usar.
+For resale, commercial use, editing the artwork, or including the files in paid products, please contact the author before use.
 
-## Créditos
+## Credits
 
-Artes disponibilizadas gratuitamente pela autora deste repositório.
-
+Artwork made available for free by the author of this repository.
